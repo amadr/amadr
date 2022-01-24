@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://amadr.netlify.app/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/69305541/150803239-0842d4c1-5e55-4c4e-bfde-a7a60c02dd86.svg" alt="Personal Website" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amadr" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amadr" height="30" width="40" /></a>
 <a href="mailto:amadr.web@gmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="amadr.web@gmail.com" height="30" width="40" /></a>
-<a href="https://amadr.netlify.app/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://user-images.githubusercontent.com/69305541/150803239-0842d4c1-5e55-4c4e-bfde-a7a60c02dd86.svg" alt="Personal Website" height="30" width="40" /></a>
 </p>
 
 
